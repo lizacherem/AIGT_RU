@@ -1,4 +1,4 @@
-# AI-generated text Detection in Russian. 
+# AI-generated text Detection in Russian
 This repository contains code and data associated with the MA thesis on AI-generated text Detection in Russian. 
 
 # Abstract
