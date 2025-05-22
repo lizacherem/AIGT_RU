@@ -9,7 +9,7 @@ Elizaveta_Cheremisina_DTA_thesis.pdf: MA thesis paper.
 
 data folder:
 The RuMix dataset used in the experiments includes a training split and three test splits.
-Original human-written texts and AI-generated texts can be found in the following Google Drive folder: https://drive.google.com/drive/folders/1byzb_c85kd0nE1m-htFfuEG861KigOVZ?usp=sharing
+Original human-written texts can be found in the following Google Drive folder: https://drive.google.com/drive/folders/1byzb_c85kd0nE1m-htFfuEG861KigOVZ?usp=sharing
 
 code folder:
 Contains the code files used in this study.
