@@ -20,7 +20,7 @@ plots folder: Contains all the plots/visualisations presented in the study.
 ```bibtex
 @mastersthesis{cheremisina2025rumix,
   author    = {Elizaveta Cheremisina and Walter Daelemans and Jens Lemmens},
-  title     = {AI-generated Text Detection in Russian: Exploring Limitations of Evasion Strategies with RuMix},
+  title     = {AI-generated Text Detection in Russian: Exploring Limitations of Evasion Strategies},
   school    = {University of Antwerp},
   year      = {2025},
   month     = {May},
