@@ -18,7 +18,7 @@ Experiments: Notebooks 7–8.
 
 plots folder: Contains all the plots/visualisations presented in the study.
 # Contributions
-Our main contributions include: (1) an extensive overview of AI humanizer tools for Russian; (2) the design and implementation of three adversarial evasion strategies; and (3) the creation and open-source publication of RuMix.
+Our main contributions include: (1) an overview of AI humanizer tools for Russian; (2) the design and implementation of three adversarial evasion strategies; and (3) the creation and open-source publication of RuMix.
 
 # Citing
 
