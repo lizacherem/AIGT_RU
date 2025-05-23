@@ -13,6 +13,8 @@ Original human-written texts can be found in the following Google Drive folder: 
 
 code folder:
 Contains the code files used in this study.
+Data Preparation and Visualization: Notebooks 1–6 and 9.
+Experiments: Notebooks 7–8.
 
 plots folder: Contains all the plots/visualisations presented in the study.
 # Contributions
